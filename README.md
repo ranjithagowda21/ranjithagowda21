@@ -75,16 +75,6 @@ A web-based platform for property listing and booking management.
 
 ---
 
-## 💼 Internship
-
-**Python Full Stack Development Intern**
-
-* Developed applications using Python and web technologies.
-* Worked with databases and backend development.
-* Practiced REST APIs and full-stack development.
-
----
-
 ## 🌱 Currently Learning
 
 * Data Science
