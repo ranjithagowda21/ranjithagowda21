@@ -98,7 +98,7 @@ A web-based platform for property listing and booking management.
 
 ## 📫 Connect With Me
 
-📧 Email: [ranjithagowda63@gmail.com](mailto:ranjithahsgowda@gmail.com)
+📧 Email: [ranjithaghsgowda@gmail.com](mailto:ranjithaghsgowda@gmail.com)
 
 💼 LinkedIn: [Ranjitha Gowda](https://www.linkedin.com/in/ranjitha-gowda-8142ab358/)
 
